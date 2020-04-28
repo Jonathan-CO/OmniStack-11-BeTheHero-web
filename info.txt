@@ -1,3 +1,0 @@
-Informações
-
-O frontend web está funcional segundo o que foi proposto porém há funções que podem ainda ser desenvolvidas.
